@@ -1,3 +1,4 @@
 go 1.25.1
 
 use ./example_shop
+use hello_hertz
